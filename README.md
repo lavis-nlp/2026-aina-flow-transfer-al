@@ -1,4 +1,4 @@
-# FLC - FLow Classification
+# From One Network to Another
 
 This is the corresponding artifact to the paper `From One Network to Another: Transfer Active Learning for Domain Adaptation of Flow Classifiers` to `AINA 2026`.
 
